@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shafihadavaljigari
+Java Full-Stack Developer — spring boot • React • SQL -still learning
 
-<!--
-**Shafiha-24/Shafiha-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•🌱 Learning:Java Full-Stack(As a student)
+•🌐 LinkedIn:
 
-Here are some ideas to get you started:
+## Tech
+Python, java, React, JavaScript, HTML/CSS, SQL, Git, spring boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+1.Task_management_system - python,MongoDB
+
+
