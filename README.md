@@ -2,6 +2,7 @@
 Java Full-Stack Developer — spring boot • React • SQL -still learning
 
 •🌱 Learning:Java Full-Stack(As a student)
+
 •🌐 LinkedIn:www.linkedin.com/in/ shafihadavaljigari
 
 ## Tech
